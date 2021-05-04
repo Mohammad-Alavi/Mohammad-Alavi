@@ -1,10 +1,23 @@
 ## Hi, I am Mohammad 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-mohammad.alavi1990@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammad.alavi1990@gmail.com)](mailto:mohammad.alavi1990@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Alavi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mohammadalavi/)](https://linkedin.com/in/mohammadalavi/) 
-</p>
 
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Alavi)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alavi&layout=compact)](https://github.com/Mohammad-Alavi/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Alavi)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/mohammadalavi">
+  <img align="left" alt="Mohammads's LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png" />
+</a>
+<a href="https://twitter.com/Mohammad_Alavi_">
+  <img align="left" alt="Mohammads's Twitter" width="32px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+<a href="mailto:mohammad.alavi1990@gmail.com">
+  <img align="left" alt="Mohammads's Email" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
+<br/>
 
+## Active Projects
+
+[![apiato/apiato](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=apiato&theme=dracula)](https://github.com/apiato/apiato)
+
+### GitHub Stats
+
+[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Alavi&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alavi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Alavi&layout=compact&theme=dracula)](https://git.io/streak-stats)
