@@ -18,6 +18,7 @@
 
 ### GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammad-Alavi&layout=compact&theme=dracula)](https://git.io/streak-stats)
+
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Alavi&show_icons=true&theme=dracula&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alavi&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammad-Alavi&layout=compact&theme=dracula)](https://git.io/streak-stats)
