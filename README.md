@@ -15,7 +15,7 @@
 
 ## Active Projects
 
-<a align="center">[![apiato/apiato](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=Apiato&theme=dracula)](https://github.com/apiato/apiato)</a>
+<a align="right">[![apiato/apiato](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=Apiato&theme=dracula)](https://github.com/apiato/apiato)</a>
 
 ### GitHub Stats
 
