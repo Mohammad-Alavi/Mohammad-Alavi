@@ -15,6 +15,11 @@
 
 ## Active Projects
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammad-Alavi&repo=github-readme-stats"/>
+</a>
+<br/>
+
 [![apiato/apiato](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=Apiato&theme=dracula)](https://github.com/apiato/apiato)
 [![apiato/core](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=Core&theme=dracula)](https://github.com/apiato/core)
 
