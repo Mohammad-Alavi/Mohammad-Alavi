@@ -17,6 +17,8 @@
 
 [![apiato/apiato](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=apiato&theme=dracula)](https://github.com/apiato/apiato)
 
+[![apiato/core](https://github-readme-stats.vercel.app/api/pin/?username=apiato&repo=core&theme=dracula)](https://github.com/apiato/core)
+
 ### GitHub Stats
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Alavi&show_icons=true&theme=dracula&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alavi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
